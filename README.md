@@ -6,11 +6,12 @@
 
 ## 🚀 About Me
 
-- 🌤️ **Recently built:** [Weather App](https://tranmaitiendat.github.io/weather-app/WeatherApp.html) - A modern PWA with glassmorphism UI
+- 🔥 **Passionate about:** Building modern web applications with stunning UI/UX
 - 💻 **Currently learning:** Advanced JavaScript, React, Node.js
 - 🎯 **Focus on:** Creating beautiful, responsive web applications
-- 📱 **Passionate about:** Mobile-first design and Progressive Web Apps
+- 📱 **Interested in:** Mobile-first design and Progressive Web Apps
 - 🌟 **Goal:** Building solutions that make people's lives easier
+- 🎨 **Love:** Clean code, smooth animations, and pixel-perfect designs
 
 ## 🛠️ Tech Stack
 
@@ -31,39 +32,62 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
-## 🌟 Featured Project
+## � What I Love Building
 
-### 🌤️ Weather App
-> Modern weather application with glassmorphism design and PWA support
+### 💎 Modern Web Applications
+> Creating beautiful, interactive experiences with cutting-edge technologies
 
-**✨ Features:**
-- 🌈 Dynamic weather backgrounds
-- 📊 5-day forecast with detailed info
-- 📍 Geolocation support
-- 🌡️ Celsius ⇄ Fahrenheit toggle
-- 🕐 Recent searches history
-- 💎 Glassmorphism UI design
-- 📱 PWA - Install as native app
-- ♿ Full accessibility support
+**🛠️ My Approach:**
+- � **User-First Design** - Every pixel matters
+- ⚡ **Performance Focused** - Speed is a feature
+- � **Mobile Responsive** - Works everywhere
+- ♿ **Accessible** - Inclusive for everyone
+- � **Clean Code** - Maintainable and scalable
 
-**🔗 Links:**
-- 🌐 [Live Demo](https://tranmaitiendat.github.io/weather-app/WeatherApp.html)
-- 📝 [Source Code](https://github.com/TranMaiTienDat/weather-app)
+**🌟 Technologies I Work With:**
+- **Frontend:** HTML5, CSS3, JavaScript, React
+- **Styling:** Glassmorphism, Animations, Responsive Design  
+- **Tools:** Git, VS Code, Browser DevTools
+- **APIs:** RESTful services, External integrations
 
-**🛠️ Built with:** Vanilla JavaScript, CSS3, HTML5, OpenWeatherMap API
+### � Current Projects
+- �️ **Weather Dashboard** - PWA with dynamic backgrounds
+- 📊 **Data Visualization Tools** - Interactive charts and graphs
+- 🎮 **Interactive Games** - Fun web-based experiences
+- �️ **E-commerce Components** - Reusable UI elements
 
-## 📊 GitHub Stats
+## � My Journey
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TranMaiTienDat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+**🌱 Always Growing • 🚀 Always Building • ✨ Always Learning**
+
+</div>
+
+### 🏆 Achievements & Milestones
+- 💻 **Clean Code Advocate** - Writing maintainable, readable code
+- 🎨 **UI/UX Enthusiast** - Designing intuitive user experiences  
+- 🌐 **Web Performance Optimizer** - Making the web faster
+- 📱 **PWA Developer** - Building app-like web experiences
+- ♿ **Accessibility Champion** - Creating inclusive applications
+
+### 📊 Development Philosophy
+
+```javascript
+const myApproach = {
+  code: ["Clean", "Commented", "Testable"],
+  design: ["User-Centered", "Responsive", "Accessible"],
+  learning: ["Continuous", "Curious", "Collaborative"],
+  motto: "Make it work, make it right, make it fast!"
+};
+```
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TranMaiTienDat&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TranMaiTienDat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranMaiTienDat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TranMaiTienDat&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🎯 Current Focus
