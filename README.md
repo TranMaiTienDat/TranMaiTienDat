@@ -26,24 +26,28 @@ while (learning) {
 
 - 🧠 **Mindset:** Always curious, always learning, always improving
 - 💡 **Philosophy:** Write code that tells a story
-- 🎨 **Passion:** Crafting beautiful, functional user experiences  
-- 🔍 **Approach:** Detail-oriented development with big-picture thinking
-- 🌱 **Growth:** Constantly exploring new technologies and methodologies
-- 🤝 **Collaboration:** Love working with teams to build amazing things
+- 🎨 **Passion:** Creating stunning frontend experiences with pixel-perfect designs
+- 🔍 **Approach:** Frontend-focused with solid understanding of full-stack development
+- 🌱 **Growth:** Constantly mastering modern frontend technologies and UI/UX principles
+- 🤝 **Collaboration:** Love working with designers and backend teams to create amazing products
 
 ## ⚡ Tech Arsenal
 
-### 🌐 Frontend Technologies
+### 🌐 Core Frontend Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### ⚛️ Frontend Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
-### 🎨 Styling & Design
+### 🎨 Styling & Design Systems
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Less](https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=less&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -51,55 +55,63 @@ while (learning) {
 ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Emotion](https://img.shields.io/badge/-Emotion-D36AC2?style=flat-square&logo=emotion&logoColor=white)
 
-### 🔧 Backend & Database
+### � Mobile & PWA Development
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+
+### 🔧 Backend (Basic Knowledge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### ☁️ Deployment & Hosting
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?style=flat-square&logo=github-pages&logoColor=white)
+![Firebase Hosting](https://img.shields.io/badge/-Firebase%20Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### 🛠️ Development Tools
+### 🛠️ Development Tools & Environment
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
+
+### 🎨 Design & Prototyping Tools
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=sketch&logoColor=black)
+![InVision](https://img.shields.io/badge/-InVision-FF3366?style=flat-square&logo=invision&logoColor=white)
 
-### 🔬 Testing & Quality
+### 🔬 Testing & Quality Assurance
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
-![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
 ### 📦 Build Tools & Package Managers
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Parcel](https://img.shields.io/badge/-Parcel-DA632A?style=flat-square&logo=parcel&logoColor=white)
+![Rollup](https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 ![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 
-### 🔄 APIs & Integration
+### 🔄 APIs & State Management
 ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-FF6B6B?style=flat-square&logo=react&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white)
 
 ## 🎨 Development Approach
 
@@ -137,24 +149,25 @@ while (learning) {
 ### 📚 Currently Exploring
 ```typescript
 const currentLearning = {
-  technologies: ["Next.js", "TypeScript", "GraphQL", "Docker"],
-  concepts: ["Microservices", "CI/CD", "Cloud Architecture"],
-  practices: ["TDD", "Clean Code", "Design Patterns"],
-  softSkills: ["Team Leadership", "Technical Writing"]
+  frontend: ["Next.js 14", "React Server Components", "Advanced TypeScript"],
+  ui: ["Framer Motion", "Three.js", "Advanced CSS Animations"],  
+  tools: ["Storybook", "Chromatic", "Frontend Testing Best Practices"],
+  backend: ["Node.js Basics", "REST API Design", "Database Fundamentals"],
+  design: ["Advanced Figma", "Design Systems", "Accessibility Standards"]
 };
 
-// Always learning something new every day!
+// Frontend-focused learning journey!
 const today = new Date();
-console.log(`Day ${today.getDate()}: What will I learn today?`);
+console.log(`Day ${today.getDate()}: Mastering frontend craftsmanship!`);
 ```
 
 ### 🎯 Areas of Interest
-- 🤖 **AI/ML Integration** - Making apps smarter
-- 🌐 **Web3 & Blockchain** - Decentralized applications
-- 📱 **Mobile Development** - React Native, Flutter
-- ⚡ **Performance Optimization** - Making web faster
-- 🔒 **Cybersecurity** - Building secure applications
-- 📊 **Data Visualization** - Making data beautiful
+- 🎨 **Advanced UI/UX** - Microinteractions, animations, design systems
+- ⚡ **Performance Optimization** - Web vitals, bundle optimization
+- 📱 **Mobile-First Development** - Responsive design, PWAs
+- ♿ **Web Accessibility** - WCAG compliance, inclusive design
+- � **Developer Experience** - Build tools, workflow optimization
+- 🌐 **Modern Web Standards** - Web Components, ES2024 features
 
 ## 📈 My Journey
 
@@ -165,11 +178,12 @@ console.log(`Day ${today.getDate()}: What will I learn today?`);
 </div>
 
 ### 🏆 Development Principles
-- 💻 **Clean Code Advocate** - Writing maintainable, readable code
-- 🎨 **UI/UX Enthusiast** - Designing intuitive user experiences  
-- 🌐 **Web Performance Optimizer** - Making the web faster
-- 📱 **PWA Developer** - Building app-like web experiences
-- ♿ **Accessibility Champion** - Creating inclusive applications
+- 💻 **Frontend Craftsman** - Pixel-perfect implementations and smooth user experiences
+- 🎨 **UI/UX Advocate** - Bridging the gap between design and development
+- ⚡ **Performance Enthusiast** - Optimizing every byte and millisecond
+- 📱 **Mobile-First Developer** - Responsive design from the ground up
+- ♿ **Accessibility Champion** - Making the web inclusive for everyone
+- 🧩 **Component Thinker** - Building reusable, maintainable component libraries
 
 ### 💡 Problem-Solving Approach
 
@@ -203,13 +217,13 @@ const problemSolving = (challenge) => {
 
 ```javascript
 const currentFocus = {
-  learning: ["Advanced React Patterns", "System Design", "Cloud Architecture"],
-  building: ["Open Source Projects", "Developer Tools", "Educational Content"],
-  improving: ["Code Quality", "Team Collaboration", "Technical Leadership"],
-  exploring: ["AI/ML", "Web3", "Edge Computing"]
+  mastering: ["React Ecosystem", "Modern CSS", "TypeScript Patterns"],
+  building: ["Interactive UIs", "Design Systems", "Frontend Tools"],
+  improving: ["Code Quality", "User Experience", "Performance Metrics"],
+  exploring: ["Web Animations", "3D on Web", "Advanced React Patterns"]
 };
 
-console.log("Always learning, always growing! 🚀");
+console.log("Frontend excellence through continuous learning! 🚀");
 ```
 
 ## 🌐 Connect with Me
