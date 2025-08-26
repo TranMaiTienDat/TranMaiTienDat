@@ -1,9 +1,8 @@
 # 👋 Hi there, I'm Tran Mai Tien Dat!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Code+Craftsman;Tech+Explorer;Digital+Creator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+From+Zero;Code+Craftsman;Tech+Explorer;Man+With+Ambition" alt="Typing SVG" />
 </div>
-
 ## 🎯 Developer Philosophy
 
 ```javascript
