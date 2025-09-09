@@ -22,13 +22,13 @@ const developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 About Me
+##  About Me
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 
-- 💡 Focused on building experiences that feel effortless for users
-- 🌱 Driven by curiosity and continuous growth  
-- ❤️ I strive to design with empathy and code with purpose
+-  Focused on building experiences that feel effortless for users
+-  Driven by curiosity and continuous growth  
+-  I strive to design with empathy and code with purpose
 
 <br clear="both"/>
 
@@ -69,7 +69,7 @@ const developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## � Current Focus
+##  Current Focus
 
 <div align="center">
 
@@ -78,17 +78,17 @@ const developer = {
 </div>
 
 **What I'm working on:**
-- 🔭 Exploring modern web frameworks and tools
-- 🌱 Deepening my understanding of full-stack development  
-- 👯 Looking to collaborate on open source projects
-- 💬 Ask me about web development, JavaScript, or React
-- ⚡ Fun fact: I believe great code tells a story
+-  Exploring modern web frameworks and tools
+-  Deepening my understanding of full-stack development  
+-  Looking to collaborate on open source projects
+-  Ask me about web development, JavaScript, or React
+-  Fun fact: I believe great code tells a story
 
-## 🎯 Goals & Interests
+##  Goals & Interests
 
 <div align="center">
 
-| 🚀 **Current Projects** | 🎯 **Learning Goals** | 💡 **Interests** |
+|  **Current Projects** |  **Learning Goals** |  **Interests** |
 |-------------------------|----------------------|-------------------|
 | Building web apps | Advanced React patterns | UI/UX Design |
 | API development | Database optimization | Developer tools |
