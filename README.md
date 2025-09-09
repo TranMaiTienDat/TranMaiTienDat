@@ -22,17 +22,17 @@ const developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-##  About Me
+## 🚀 About Me
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 
--  Focused on building experiences that feel effortless for users
--  Driven by curiosity and continuous growth  
--  I strive to design with empathy and code with purpose
+- 💡 Focused on building experiences that feel effortless for users
+- 🌱 Driven by curiosity and continuous growth  
+- ❤️ I strive to design with empathy and code with purpose
 
 <br clear="both"/>
 
-##  Core Tech
+## ⚡ Core Tech
 
 <div align="center">
 
@@ -65,7 +65,7 @@ const developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
