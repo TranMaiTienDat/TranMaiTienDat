@@ -32,7 +32,7 @@ const developer = {
 
 <br clear="both"/>
 
-## ⚡ Core Tech
+## Core Tech
 
 **Frontend:**
 - HTML5, CSS3, JavaScript (ES6+)
